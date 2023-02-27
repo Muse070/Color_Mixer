@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ColorMixer</string>
+    <string name="red">Red:</string>
+    <string name="blue">Blue:</string>
+    <string name="green">Green:</string>
+    <string name="r">Red: 50</string>
+    <string name="b">Blue: 50</string>
+    <string name="g">Green: 50</string>
+    <string name="black_hex">#000000</string>
+</resources>
